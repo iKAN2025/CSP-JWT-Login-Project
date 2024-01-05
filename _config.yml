@@ -5,6 +5,7 @@ github_username:  iKAN2025
 github_repo: "iKAN2025/CSP-JWT-Login-Project"
 baseurl: "/CSP-JWT-Login-Project"
 remote_theme: jekyll/minima
+repository: "iKAN2025/CSP-JWT-Login-Project"
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/nighthawkcoders"}
