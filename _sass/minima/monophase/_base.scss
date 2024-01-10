@@ -3,9 +3,11 @@
   box-sizing: border-box;
 }
 
+$light-pink: pink; 
+
 body {
   color: var(--body-color);
-  background-color: var(--body-bg-color);
+  background-color: $light-pink !important;
   font-family: var(--body-font-family);
   font-size: var(--body-font-size);
   line-height: var(--body-line-height);
