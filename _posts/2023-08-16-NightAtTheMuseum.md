@@ -1,8 +1,7 @@
 ---
-layout: post
-title: Daily Plan Sample
-description: Example Blog!!!  This shows planning and notes from hacks.
-type: plans
+layout: base
+title: Night At The Musem Reflection.
+type: hacks
 courses: { compsci: {week: 11 } }
 ---
 N@TM Reflection • 2 min read
